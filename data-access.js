@@ -92,4 +92,4 @@ async function deleteCustomerById(id) {
 
 dbStartup();
 module.exports = { getCustomers, resetCustomers, addCustomer, 
-    getCustomerById, updateCustomer, deleteCustomerById };
+        getCustomerById, updateCustomer, deleteCustomerById };
